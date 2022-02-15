@@ -1,1 +1,3 @@
-test
+Connect-AzAccount -Identity
+
+Get-AzResource
