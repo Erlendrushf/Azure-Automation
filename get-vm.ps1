@@ -1,3 +1,3 @@
 Connect-AzAccount -Identity
 
-Get-AzResource | select ResourceName, ResourceGroupName -fl
+Get-AzResource | select ResourceName, ResourceGroupName
